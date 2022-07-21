@@ -2,10 +2,10 @@
   "name": "markdown-it-vue",
   "version": "1.1.7",
   "private": false,
-  "description": "The vue lib for markdown-it",
+  "description": "The vue lib for markdown-it, forked from ravenq",
   "author": {
-    "name": "ravenq",
-    "e-mail": "flw_dream@126.com"
+    "name": "ider-zh",
+    "e-mail": "326737833@qq.com"
   },
   "keywords": [
     "markdown",
@@ -92,12 +92,12 @@
     "not ie <= 8"
   ],
   "bugs": {
-    "url": "https://github.com/ravenq/markdown-it-vueissues"
+    "url": "https://github.com/ider-zh/markdown-it-vueissues"
   },
-  "homepage": "https://github.com/ravenq/markdown-it-vue",
+  "homepage": "https://github.com/ider-zh/markdown-it-vue",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ravenq/markdown-it-vue.git"
+    "url": "git+https://github.com/ider-zh/markdown-it-vue.git"
   }
 }
