@@ -1,7 +1,7 @@
 name: npm publish
 on:
   push:
-    branches: [ "action", "main" ]
+    branches: [ "action", "main", "master" ]
 
 jobs:
   build:
